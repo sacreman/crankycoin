@@ -1,6 +1,6 @@
 user:
-    public_key:
-    encrypted_private_key:
+    public_key: "03dd1eff6aa6cfb98d8a93782d7a4f933dbd2cd7d7af72c97349ae21816cfc85ed"
+    encrypted_private_key: "2172ac2d8e729411b75635f9a6d20978dbc0cdbbf53c568a6a7535f8681aadcbeedcbff17e523207b8e517ff2f48e377a64d440498ec243b0ef78cda66577227b6be773ac915b4cb400e94feccd43d72030209005a463973c48843f557c9660c"
     ip: "127.0.0.1"
     block_path:
 network:
